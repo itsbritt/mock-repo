@@ -1,2 +1,2 @@
 console.log("xihjq")
-console.log("tsslx")
+console.log("skcot")
